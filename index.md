@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <title>Моя тестовая страница</title>
+</head>
+<body>
+<h1>Личная страница кесулькена</h1>
+<img alt="Нарисованное фломастером красное сердечко" src="images/heart.png">
+<p>Кесулькен - самый мощный кот в мире</p>
+
+<ol>
+    <li>технологов</li>
+    <li>мыслителей</li>
+    <li>строителей</li>
+</ol>
+
+<p>работающих вместе ... </p>
+<a href="https://www.google.com/search?q=%D0%BA%D0%B8%D1%81%D1%83%D0%BB%D1%8C%D0%BA%D0%B5%D0%BD&rlz=1C1SQJL_ruRU857RU857&sxsrf=ALeKk01dRSEyKw5BDUHQ304Fd98qFiRJXw:1606913732728&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiC5OSRrK_tAhWq_CoKHahIAVkQ_AUoAXoECBYQAw&biw=1920&bih=890">О
+    боже мой! Это же <strong>кесулькен</strong></a>
+<button>Change user</button>
+<script src="scripts/main.js"></script>
+</body>
+</html> 
